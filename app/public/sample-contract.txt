@@ -1,0 +1,44 @@
+FREELANCE SERVICES AGREEMENT
+
+This Freelance Services Agreement (the "Agreement") is entered into as of March 3, 2026 by and between Northwind Digital Ltd. ("Client") and Jordan Rivera ("Contractor").
+
+1. Services
+Contractor shall design and build a marketing website for Client as described in Exhibit A, together with any related tasks that Client may reasonably request from time to time.
+
+2. Term
+This Agreement begins on the Effective Date and continues for twelve (12) months. This Agreement shall automatically renew for successive twelve (12) month terms unless either party provides written notice of non-renewal at least sixty (60) days before the end of the then-current term.
+
+3. Fees
+Client shall pay Contractor a fixed fee of USD 6,000 for the Services. Contractor shall invoice Client upon completion of the Services.
+
+4. Payment
+Client shall pay all undisputed invoices within ninety (90) days of receipt, subject to Client's internal approval process. Client may withhold payment of any invoice it disputes in good faith.
+
+5. Revisions
+Contractor shall make such revisions to the Deliverables as Client may reasonably request until Client, in its sole discretion, is satisfied with the Deliverables.
+
+6. Intellectual Property
+All work product, including drafts and concepts, shall be the sole and exclusive property of Client from the moment of creation, and Contractor hereby assigns all rights, title and interest therein to Client upon execution of this Agreement. Contractor waives any moral rights in the work product.
+
+7. Confidentiality
+Each party shall keep confidential any non-public information disclosed by the other party and use it only to perform this Agreement. This obligation survives for two (2) years after termination.
+
+8. Independent Contractor
+Contractor is an independent contractor and not an employee of Client. Contractor is responsible for its own taxes, equipment and working hours.
+
+9. Termination
+Client may terminate this Agreement at any time, for any reason, upon written notice. Upon termination, Client shall have no further obligation to Contractor.
+
+10. Non-Competition
+For a period of two (2) years following the termination of this Agreement, Contractor shall not provide services of a similar nature to any business that competes with Client.
+
+11. Indemnification
+Contractor shall indemnify and hold harmless Client from any and all claims, losses, damages and expenses of any kind arising out of or related to the Services, without limitation.
+
+12. Governing Law
+This Agreement is governed by the laws of the State of New York.
+
+IN WITNESS WHEREOF, the parties have signed this Agreement as of the Effective Date.
+
+Client: ______________________
+Contractor: __________________
